@@ -1,0 +1,53 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Room101",
+            "request": "launch",
+            "mainClass": "Room101",
+            "projectName": "Dev_759c6e3d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - closet",
+            "request": "launch",
+            "mainClass": "classesObjects.closet",
+            "projectName": "Dev_759c6e3d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - closet",
+            "request": "launch",
+            "mainClass": "closet"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - closit",
+            "request": "launch",
+            "mainClass": "closit"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - room101",
+            "request": "launch",
+            "mainClass": "room101"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Dev_759c6e3d"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
